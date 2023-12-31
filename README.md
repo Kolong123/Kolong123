@@ -1,14 +1,33 @@
-### Hi there 👋
+# Restaurant Ordering and Data Collection App
 
-<!--
-**Kolong123/Kolong123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Project Overview
+This is a mobile application designed specifically for Alvin's restaurant. The app aims to streamline the ordering process for customers while collecting their names and phone numbers for future marketing and services.
 
-- 🔭 我目前正在进行：为我的餐厅开发一款点餐和数据收集应用。
-- 🌱 我目前正在学习：开发手机应用和前端技术。
-- 👯 我正在寻找合作：对于点餐应用的开发和优化。
-- 💬 请向我咨询：有关餐厅应用开发或点餐流程的问题。
-- 📫 如何联系我：[你的联系方式，如邮箱或社交媒体]。
-- ⚡ 有趣的事实：我热爱研究和开发手机应用，特别是与餐饮相关的应用。
+## Key Features
+- Customers can browse the menu and select items within the app.
+- The app supports online payment functionalities.
+- Automatically collects customer names and phone numbers for marketing purposes.
+- ...
 
-欢迎与我合作，一起为餐厅业务创造更多价值！
--->
+## Technology Stack
+- Frontend: [index.html]
+- Backend: [Node.js]
+- Database: [Git]
+
+## How to Use
+1. Clone the project to your local environment.
+2. Install the necessary dependencies.
+3. Configure the database and environment variables.
+4. Run the application.
+
+## Contributors
+- Alvin: Restaurant business requirements analysis and project management.
+- [kolong-deverlope]
+
+## Contact
+For any questions or suggestions, please reach out to us at [email:ko.long.bbq@gmail.com].
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+Feel free to contribute and provide feedback on this project!
